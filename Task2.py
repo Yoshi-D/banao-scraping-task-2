@@ -19,7 +19,7 @@ df = pd.read_csv("twitter_links.csv", header=None)
 twitter_list = df.iloc[:, 0].tolist()
 
 # Twitter login credentials
-EMAIL = "spare.yash.@gmail.com"
+EMAIL = "spare.yash.2025@gmail.com"
 USERNAME = ""
 PASSWORD = ""
 
